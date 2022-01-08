@@ -1,0 +1,10 @@
+.menu__lista{
+	display: flex;
+}
+.menu__item{
+	list-style: none;
+}
+/*ultimo filho li - tirando a margem da direita*/
+.menu__item:last-child .menu-item-link {
+	margin-right: 0;
+}

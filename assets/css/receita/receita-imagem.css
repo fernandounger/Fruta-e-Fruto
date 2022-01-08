@@ -1,0 +1,5 @@
+.receita__imagem{
+	border-radius: 15px 15px 0 0;
+	height: 200px;
+	object-fit: cover;
+}
